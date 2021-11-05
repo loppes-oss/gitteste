@@ -1,0 +1,16 @@
+C:\Users\TREINAMENTO13\source\repos\futebol\futebol\bin\Debug\net5.0\futebol.exe
+C:\Users\TREINAMENTO13\source\repos\futebol\futebol\bin\Debug\net5.0\futebol.deps.json
+C:\Users\TREINAMENTO13\source\repos\futebol\futebol\bin\Debug\net5.0\futebol.runtimeconfig.json
+C:\Users\TREINAMENTO13\source\repos\futebol\futebol\bin\Debug\net5.0\futebol.runtimeconfig.dev.json
+C:\Users\TREINAMENTO13\source\repos\futebol\futebol\bin\Debug\net5.0\futebol.dll
+C:\Users\TREINAMENTO13\source\repos\futebol\futebol\bin\Debug\net5.0\ref\futebol.dll
+C:\Users\TREINAMENTO13\source\repos\futebol\futebol\bin\Debug\net5.0\futebol.pdb
+C:\Users\TREINAMENTO13\source\repos\futebol\futebol\obj\Debug\net5.0\futebol.csproj.AssemblyReference.cache
+C:\Users\TREINAMENTO13\source\repos\futebol\futebol\obj\Debug\net5.0\futebol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TREINAMENTO13\source\repos\futebol\futebol\obj\Debug\net5.0\futebol.AssemblyInfoInputs.cache
+C:\Users\TREINAMENTO13\source\repos\futebol\futebol\obj\Debug\net5.0\futebol.AssemblyInfo.cs
+C:\Users\TREINAMENTO13\source\repos\futebol\futebol\obj\Debug\net5.0\futebol.csproj.CoreCompileInputs.cache
+C:\Users\TREINAMENTO13\source\repos\futebol\futebol\obj\Debug\net5.0\futebol.dll
+C:\Users\TREINAMENTO13\source\repos\futebol\futebol\obj\Debug\net5.0\ref\futebol.dll
+C:\Users\TREINAMENTO13\source\repos\futebol\futebol\obj\Debug\net5.0\futebol.pdb
+C:\Users\TREINAMENTO13\source\repos\futebol\futebol\obj\Debug\net5.0\futebol.genruntimeconfig.cache
