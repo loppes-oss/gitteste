@@ -6,6 +6,7 @@ namespace futebol
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("boa tarde!");
             Console.WriteLine("Hello World!");
         }
     }
